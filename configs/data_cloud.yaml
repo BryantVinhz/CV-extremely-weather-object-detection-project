@@ -1,0 +1,11 @@
+path: /kaggle/input/datasets/kuantinglai/exwod/XWOD_dataset.v1.1/XWOD_dataset.v1.1
+train: ./train.v1.1
+val: ./valid.v1.1
+test: ./test.v1.1
+names:
+  - person
+  - car
+  - truck
+  - motorcycle
+  - bus
+  - bike
